@@ -115,7 +115,6 @@ python src/main.py
 
 | Integrante | Atribuição / Responsabilidade |
 | :--- | :--- |
-| **Integrante 1** | Modelagem das entidades `Pessoa`, `Usuario` e `Bibliotecario` (Herança e Polimorfismo) |
-| **Integrante 2** | Modelagem das classes `Livro` e `Emprestimo` (Regras de comparação e datas) |
-| **Integrante 3** | Classe `Biblioteca`, Dunder Methods e gestão central do acervo |
-| **Integrante 4** | Exceções personalizadas, Decoradores e script `main.py` de testes |
+| **Vinícius** *(Código)* | Implementação de toda a lógica e módulos do sistema (`Pessoa`, `Usuario`, `Bibliotecario`, `Livro`, `Emprestimo`, `Biblioteca`), regras de negócio, métodos especiais, decoradores, exceções e testes no `main.py`. |
+| **Luan e Alexandre** *(GitHub/DevOps)* | Configuração do repositório no GitHub, estruturação da pasta modular `src/`, submissão e versionamento dos ficheiros, criação do `.gitignore` e configuração do `README.md` com o diagrama de classes. |
+| **Alexandre** *(Documentação)* | Redação do relatório técnico, levantamento das justificativas do projeto, especificação das regras de negócio, mapeamento dos conceitos de POO aplicados e estruturação do documento para entrega. |
